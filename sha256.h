@@ -1,3 +1,5 @@
+// Taken from http://www.zedwood.com/article/cpp-sha256-function
+
 #include <iostream>
 #include <string>
 #include <string.h>
