@@ -1,5 +1,5 @@
 // <>
-#include "hw2_1_sha256.h"
+#include "sha256.h"
 
 #ifndef WINDOWS
     #include <windows.h>
